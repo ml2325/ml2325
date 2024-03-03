@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
-<h3 align="center">A passionate Fullstack developer /Data analyst</h3>
+<h3 align="center">A passionate Fullstack developer /Data analyst/Computer Science enthusiast</h3>
 
 - 🌱 I’m currently learning **React ,Leaflet,Matlab**
 
